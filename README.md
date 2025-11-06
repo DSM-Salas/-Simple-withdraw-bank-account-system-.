@@ -12,3 +12,5 @@ Goodbye!
 “Updated README with lab instructions.”
 
 "Edit added by [TroyStepp]"
+## Collaboration Acknowledgment
+This project was reviewed and edited by Diego Salas on GitHub.
